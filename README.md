@@ -35,12 +35,6 @@ Eigene Änderungen bleiben im Codespace erhalten, bis er gelöscht wird
 
 ## Aktualisierungen
 
-Die Notebooks werden automatisch aus dem Kurs-Repository
-[GKI-course-website](https://github.com/HamburgerFH/GKI-course-website)
-übernommen. Neue Versionen im eigenen Codespace holen: im Terminal
+Neue Versionen der Notebooks im eigenen Codespace holen: im Terminal
 `git pull` ausführen. Selbst veränderte Notebooks vorher unter neuem Namen
 speichern, sonst kann `git pull` mit einem Konflikt abbrechen.
-
-Für Lehrende: `notebooks/`, `data/processed/` und `requirements.txt` nicht
-hier bearbeiten, sondern im Website-Repository; die Synchronisation
-überschreibt diese Pfade.
