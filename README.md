@@ -2,15 +2,22 @@
 
 Jupyter-Notebooks zum Kurs *Grundlagen der Künstlichen Intelligenz (GKI)*.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/HamburgerFH/GKI-notebooks?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/HamburgerFH/GKI-notebooks)
 
 ## Start im Browser (GitHub Codespaces)
 
 1. Mit dem eigenen (kostenlosen) GitHub-Konto anmelden.
 2. Diesen Link öffnen und **Create codespace** klicken:
-   <https://codespaces.new/HamburgerFH/GKI-notebooks?quickstart=1>
+   <https://codespaces.new/HamburgerFH/GKI-notebooks>
 3. Beim ersten Start installiert der Codespace Python und alle Pakete. Das
    dauert einige Minuten.
+
+Die Startseite zeigt, was erstellt wird: eine virtuelle Maschine (Codespace)
+mit dem Repository, Region und Maschinentyp. Die Voreinstellungen (2-core)
+passen; nichts ändern.
+
+Später den vorhandenen Codespace wieder öffnen statt einen neuen zu erstellen:
+<https://github.com/codespaces> -> den Codespace zu `GKI-notebooks` anklicken.
 
 ## Notebook ausführen
 
