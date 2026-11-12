@@ -1,0 +1,4 @@
+figs/*
+!figs/.gitkeep
+.ipynb_checkpoints/
+__pycache__/

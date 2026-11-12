@@ -1,0 +1,15 @@
+jupyter
+jupyter-cache
+ipykernel
+jupytext
+nbformat
+PyYAML
+matplotlib
+pandas
+numpy
+scikit-learn
+tensorflow
+keras
+seaborn
+openpyxl
+plotly
